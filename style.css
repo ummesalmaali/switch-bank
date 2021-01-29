@@ -7,8 +7,11 @@ body{
     font-style: italic;
     font-weight: bold;
 }
+.bg-change{
+    background-color: tomato;
+}
 .submit-area{
-     color: silver;
+     background-color: tomato;
     padding: 40px;
     margin-top: 50px;
     border-radius: 10px;
